@@ -1,4 +1,1 @@
-fastmcp
-requests
-pandas
 
